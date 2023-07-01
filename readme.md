@@ -10,7 +10,8 @@ El proyecto *Desafío 10: Django startproject* es un sitio web diseñado como un
 - Plantillas y estilos básicos para facilitar el inicio del desarrollo de las vistas y páginas del sitio web.
 - Integración con Git para el control de versiones y colaboración en el desarrollo del proyecto.
 
-## Autores
+
+## Comision 7 - Grupo 8 - Autores:
 - Gomez Miguel Alejandro
 - Martin Elias Zalazar
 - David Walter Vargas
